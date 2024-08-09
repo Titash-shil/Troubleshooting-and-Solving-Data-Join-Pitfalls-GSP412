@@ -5,6 +5,8 @@
 ### Run the following Commands in CloudShell
 
 ```
+
+
 export PROJECT_ID=YOUR_PROJECT_ID
 
 bq mk ecommerce
@@ -116,6 +118,13 @@ CROSS JOIN ecommerce.site_wide_promotion
 WHERE v2ProductCategory LIKE "%Clearance%"
 AND productSKU = "GGOEGOLC013299"
 '
+
+
+
+
+
+
+
 ```
 
 # Congratulations ..!!🎉  You completed the lab shortly..😃💯
